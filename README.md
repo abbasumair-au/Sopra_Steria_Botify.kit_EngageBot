@@ -1,4 +1,4 @@
-A chatbot I created did during my 1 month internship with Sopra Steria in Summer 2020. 
+A chatbot I created did during my 1 month internship with Sopra Steria in Summer 2020.\ 
 **Scenario : Propose a meeting where all meeting members have an available time slot**  
 ![Propose a meeting](Propose a meeting.png)  
 **Scenario: Book Hotel:**  
